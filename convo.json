@@ -1,0 +1,12 @@
+{
+  "conversations": [
+    {
+      "id": 1,
+      "text": "Hello, how are you?"
+    },
+    {
+      "id": 2,
+      "text": "I'm fine, thanks. And you?"
+    }
+  ]
+}
